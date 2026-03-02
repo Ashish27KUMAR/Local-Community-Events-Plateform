@@ -2,6 +2,41 @@
 
 A beautiful, responsive web application for discovering and joining local community events. Built as a Frontend Developer Intern assignment for StarLabs.
 
+---
+
+## 📸 Screenshot
+
+> `Home` Section  
+
+<img width="1892" height="867" alt="image" src="https://github.com/user-attachments/assets/319a8d28-ef98-4c64-9d64-a0e7b78a4dc0" />
+
+<br/>
+<br/>
+
+> `Events` Section  
+
+<img width="1894" height="928" alt="image" src="https://github.com/user-attachments/assets/d74b51c3-45ef-48e7-8283-01f5bbc8ec87" />
+
+<br/>
+<br/>
+
+> `About` Section  
+
+<img width="1899" height="929" alt="image" src="https://github.com/user-attachments/assets/e43fc024-60df-4dd7-b976-927d5c4cb528" />
+
+<br/>
+<br/>
+
+> `Host Event` Section  
+
+<img width="1896" height="926" alt="image" src="https://github.com/user-attachments/assets/7b8b88fa-7d29-45fb-828a-da6fbbe7992a" />
+
+
+
+
+
+---
+
 ## 🚀 Features
 
 - **Discover Events**: Browse through a curated list of local events across various categories.
@@ -68,4 +103,3 @@ npm run build
 This will output optimized, minified files to the `dist` directory.
 
 ---
-*Developed by Rishu.*
